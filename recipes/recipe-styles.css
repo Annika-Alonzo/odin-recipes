@@ -1,0 +1,39 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(235, 216, 195);
+    margin: 0;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: 5px double black;
+    border-radius: 5px;
+    width: 100px;
+    margin: 20px auto 50px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+.home {
+    background-color: rgba(255, 255, 255, .05);
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+}
+
+.title-container {
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+}
+
+.info-container {
+    padding: 10px;
+    margin: 15px;
+}
+
